@@ -1,6 +1,6 @@
-# C-Project-
+# C-Project
 Project Work of C programming 
-Collabortive work of my boys:
+Collabortive work of:
 Pratyoos Panta
 Sohan Sapkota 
 Roshan Kumar Kanu
